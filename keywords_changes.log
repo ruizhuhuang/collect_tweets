@@ -1,0 +1,5 @@
+2020-03-24-16-01 keywords = \"COVID\",\"coronavirus\",\"Chinese\ virus\"
+2020-03-26-14-00 keywords = \"COVID\",\"Coronavirus\",\"Chinese\ virus\",\"school\ closure\",\"school\ closed\" 
+2020-04-02-10-00 keywords = \"COVID\",\"Coronavirus\",\"Chinese\ virus\",\"school\ closure\",\"school\ closed\",\"Food\ scarcity\",\"Water\ contamination\"
+2020-04-23-10-30 keywords = \"COVID\",\"Coronavirus\",\"Chinese\ virus\",\"school\ closure\",\"school\ closed\",\"Food\ scarcity\",\"Water\ contamination\",\"reopen\ business\"
+2020-04-24-18-00 get around tweepy bug, bug appeared 2020-04-10,so less tweets collected, should be normal after this time 
